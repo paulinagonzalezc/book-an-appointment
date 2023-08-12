@@ -1,3 +1,9 @@
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" height="auto" />
+
+<div align="center">
+  <h1><b>Book an Appointment Front-end</b></h1>
+</div>
+
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -19,14 +25,9 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 [BOOK_AN_APPOINTMENT] <a name="about-project"></a>
+# Book an Appointment <a name="about-project"></a>
 
-**[Book_an_appointment]** is a front end app to book an appointment with a doctor. The user can vew the doctors and their specialities, reserve an appointment,  and add more doctors. It uses the back end which can be accessed [THROUGH THIS LINK](git@github.com:Nelitaa/book-an-appointment-back-end.git)
-
-[Link to the back-end](https://github.com/Nelitaa/book-an-appointment-back-end)
-
-Front-end deployed website: http://162.243.166.190/
-Back-end deployed API: http://159.223.131.191:3000/
+Book an Appointment is a user-friendly front-end application designed for seamless appointment scheduling with medical professionals. With this intuitive app, users can easily browse through a list of doctors, explore their respective specialties, reserve convenient appointments, and even contribute by adding new doctors to the system. The application seamlessly interfaces with its corresponding back-end, which is accessible via the following link: [Book an Appointment Back-End Repository](https://github.com/Nelitaa/book-an-appointment-back-end). This comprehensive solution streamlines the process of appointment booking, enhancing the healthcare experience for both patients and medical practitioners.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -41,15 +42,16 @@ Back-end deployed API: http://159.223.131.191:3000/
 
 ### Key Features <a name="key-features"></a>
 
-- **[reserve_appointment]**
-- **[add_doctor]**
-- **[delete_doctor]**
+- **Reserve an appointment**
+- **Add a doctor**
+- **Delete a doctor**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 - Front-end deployed website: [Live Demo](http://162.243.166.190/)
+- Back-end deployed API: [Live Demo](http://159.223.131.191:3000/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -117,9 +119,9 @@ To run tests, run the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Improve_style]**
-- [ ] **[Add_more_features]**
-- [ ] **[Add_categories]**
+- [ ] **Improve style**
+- [ ] **Add more features**
+- [ ] **Add categories**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -139,7 +141,7 @@ If you like this project give a star.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-The design was provided by [Murat Korkmaz](https://www.behance.net/muratk) on Behance.
+The design was inspired by [Murat Korkmaz](https://www.behance.net/muratk) on Behance.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
